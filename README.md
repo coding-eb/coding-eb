@@ -1,5 +1,5 @@
 # Welcome!
-I'm Mikhu (nickname), and I'm a CS student who loves creating software from websites to apps. <br>
+I'm a CS student who loves creating software from websites to apps. <br>
 I also make designs for women in tech, and I make tech-based content on YouTube and on my blog.
 
 > @mikhu-codes on [YouTube] (https://www.youtube.com/@mikhu-codes)<br>
